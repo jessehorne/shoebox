@@ -18,42 +18,43 @@
 
 .button.red {
     background: #BF4240;
-    background:linear-gradient(-45deg, #9D3130 0%, #C85B5B 100%);
+    /*background:linear-gradient(180deg, #9D3130 0%, #C85B5B 100%);*/
+    background:linear-gradient(180deg, #C85B5B 0%, #9D3130 100%);
 }
 
 .button.yellow {
     background: #C7C357;
-    background:linear-gradient(-45deg, #A6A246 0%, #CDCC6A 100%);
+    background:linear-gradient(180deg, #CDCC6A 0%, #A4A355 100%);
 }
 
 .button.green {
     background: #7DBB3E;
-    background:linear-gradient(-45deg, #5B991C 0%, #8FD071 100%);
+    background:linear-gradient(180deg, #8FD071 0%, #72A65A 100%);
 }
 
 .button.blue {
     background: #335799;
-    background:linear-gradient(-45deg, #1B54A6 0%, #3D76B8 100%);
+    background:linear-gradient(180deg, #3D76B8 0%, #315E93 100%);
 }
 
 .button.purple {
     background: #AC3CB4;
-    background:linear-gradient(-45deg, #8A1A92 0%, #C675D1 100%);
+    background:linear-gradient(180deg, #C675D1 0%, #9E5EA7 100%);
 }
 
 .button.brown {
     background: #BB7B3E;
-    background:linear-gradient(-45deg, #99591C 0%, #BB7B3E 100%);
+    background:linear-gradient(180deg, #99591C 0%, #966232 100%);
 }
 
 .button.black {
     background: #000000;
-    background:linear-gradient(-45deg, #000 0%, #333 100%);
+    background:linear-gradient(180deg, #000 0%, #333 100%);
 }
 
 .button.grey {
     background: #ccc;
-    background:linear-gradient(-45deg, #aaa 0%, #ccc 100%);
+    background:linear-gradient(180deg, #aaa 0%, #ccc 100%);
 }
 
 .button:hover {

@@ -8,7 +8,7 @@
     color: #FFFFFF;
     font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif;
     font-size: 15px;
-    margin: 15px 5px 15px 5px;
+    margin: 15px 0px 15px 0px;
     padding-bottom: 5px;
     border-radius: 5px;
     outline: none;
@@ -77,4 +77,8 @@
 
 .button-large {
     width: 300px;
+}
+
+.button-fit {
+    width: 100%;
 }
